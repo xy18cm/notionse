@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/widverse-site/static/css/main.39198e95.css",
+    "main.js": "/widverse-site/static/js/main.a6452073.js",
+    "static/js/453.16c8be0e.chunk.js": "/widverse-site/static/js/453.16c8be0e.chunk.js",
+    "static/media/peep.svg": "/widverse-site/static/media/peep.48f32a9cc04d9386232c9f556b6585fa.svg",
+    "index.html": "/widverse-site/index.html",
+    "static/media/block-one.svg": "/widverse-site/static/media/block-one.13ed6f26368851373f3a66d40c3e45b4.svg",
+    "static/media/communication.svg": "/widverse-site/static/media/communication.053b55d75ffe56f762821dd8b43c3906.svg",
+    "static/media/log.svg": "/widverse-site/static/media/log.c33adff870aca3f07c2626beefec1385.svg",
+    "static/media/page-template.svg": "/widverse-site/static/media/page-template.c56b1a19fe218a3776c811f1f2eabb3c.svg",
+    "static/media/vip.svg": "/widverse-site/static/media/vip.cb71d2fe80faba51ea903cedfddafee9.svg",
+    "main.39198e95.css.map": "/widverse-site/static/css/main.39198e95.css.map",
+    "main.a6452073.js.map": "/widverse-site/static/js/main.a6452073.js.map",
+    "453.16c8be0e.chunk.js.map": "/widverse-site/static/js/453.16c8be0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39198e95.css",
+    "static/js/main.a6452073.js"
+  ]
+}
